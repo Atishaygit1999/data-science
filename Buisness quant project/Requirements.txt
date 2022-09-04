@@ -1,0 +1,5 @@
+open source library installations
+Pandas
+matplotlib
+numpy
+streamlit(stream lit runs on local environment)
